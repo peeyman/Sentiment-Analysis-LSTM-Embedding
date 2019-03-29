@@ -13,7 +13,7 @@ This notebook aims at designing a relatively simple LSTM network including embed
 # Usage
 
 To render the html output of the notebook whether clone it and run it locally on your browser or click the following link.
-http://htmlpreview.github.io/?https://github.com/peeyman/CNN-Visualization/blob/master/CNN_Visualization.html
+http://htmlpreview.github.io/?https://github.com/peeyman/Sentiment_Analysis_LSTM_Embedding/blob/master/Sentiment_word2vec.html
 
 # Data
 
