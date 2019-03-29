@@ -10,6 +10,10 @@ This notebook aims at designing a relatively simple LSTM network including embed
 - Designing LSTM network with Embedding layer as part of architecture
 - Designing LSTM network on top pre-trained Google embedding model
 
+# Usage
+
+To render the html output of the notebook whether clone it and run it locally on your browser or click the following link.
+http://htmlpreview.github.io/?https://github.com/peeyman/CNN-Visualization/blob/master/CNN_Visualization.html
 
 # Data
 
